@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.3.2, mobirisethemes.com">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" href="assets/images/logo4.jpg" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/images/logo4.png" type="image/x-icon">
   <meta name="description" content="">
   <title>Quentin & Gaby 8.8.21 </title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
@@ -39,8 +39,8 @@
             <!-- <h3 class="mbr-section-subtitle py-3 mbr-fonts-style display-2"><span style="font-style: normal;">Wedding Template</span></h3> -->
             <h1 class="mbr-section-title py-3 mbr-fonts-style display-1">Quentin &amp; Gaby</h1>
             <p class="mbr-text py-3 mbr-fonts-style display-5">We're getting married</p>
-            <div class="mbr-section-btn py-4"><a class="btn btn-md btn-white-outline display-4" href="#aboutus">About Us <3 </a>
-                   <! ––  <a class="btn btn-md btn-white-outline display-4" href="https://mobirisethemes.com">VIEW DEMO</a></div>  -- >
+            <div class="mbr-section-btn py-4"><a class="btn btn-md btn-white-outline display-4" href="https://mobirisethemes.com">DOWNLOAD TEMPLATE</a>
+                    <a class="btn btn-md btn-white-outline display-4" href="https://mobirisethemes.com">VIEW DEMO</a></div>
         </div>
     </div>
 
@@ -80,10 +80,10 @@
     <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(239, 239, 239);">
     </div>
 
-    <div class="container" id="aboutus">
+    <div class="container">
         <div class="media-container-row">
             <div class="mbr-figure" style="width: 100%;">
-                <img src="assets/images/gaby.JPG" alt="Mobirise" title="" media-simple="true">
+                <img src="assets/images/gaby.jpg" alt="Mobirise" title="" media-simple="true">
             </div>
 
             <div class="media-content">
@@ -92,8 +92,7 @@
                 
                 <div class="mbr-section-text mbr-white pb-3 ">
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Originally from California but raised in Arizona, Gaby took a cross country trip to find a new place to call home, she settled in Oregon in August of 2017 where she would unknowingly find the love of her life in 2019. For the past six years, she has dedicated herself to helping animals as a certified veterinary assistant, not just in the states but also in Peru. Along with being a certified vet assistant, she has certifications in yoga and bartending, and plans on getting a couple more certifications or degrees in the near future. Gaby’s favorite things to do are garden, watch movies, nap, travel, read, hike, and eat sushi with Quentin. 
-
+                        Nam interdum lectus felis, non gravida risus laoreet sit amet. Nulla iaculis nulla risus, ac interdum nisi dapibus eget. Duis in enim eget nunc rhoncus malesuada. Suspendisse lectus turpis, posuere vitae sapien vel, fermentum consectetur urna.
                     </p>
                 </div>
                 
@@ -122,7 +121,7 @@
                 
                 <div class="mbr-section-text mbr-white pb-3 ">
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Oregon born and raised, Quentin moved to New York City in the fall of 2015 for a graduate program in Psychology, and found himself looking for a much needed dose of adventure alongside. Wanting to move back closer to family (and towards slightly cheaper rent), Quentin relocated to his home state with an employment opportunity in a rural coastal locale. Soon bored and wanting more, Quentin found exactly what he didn’t know he needed: his best friend and the love of his life, Gabriela Plascencia.
+                        Aliquam ultrices magna sed ipsum consequat, eget bibendum risus dapibus. Mauris elit lectus, maximus at tempus a, efficitur at mauris. Cras quis rutrum diam. Phasellus hendrerit massa mi, vel rutrum nisi elementum ac. 
                     </p>
                 </div>
                 
@@ -258,7 +257,7 @@
             <div class="mbr-white col-md-10">
                 <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-1">
                     Now we're going to celebrate our wedding!</h1>
-                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-7"></h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-7">Free Bootstrap Wedding Template</h3>
                 
                 
             </div>
@@ -511,7 +510,7 @@
         <div class="media-container-row align-center mbr-white">
             <div class="col-12">
                 <p class="mbr-text mb-0 mbr-fonts-style display-7">
-                    © Copyright 2020 <a href="https://juliovasquezdev.com" class="text-black">Quentin & Gaby </a> - All Rights Reserved
+                    © Copyright 2019 <a href="https://mobirisethemes.com" class="text-black">Free Bootstrap Templates</a> - All Rights Reserved
                 </p>
             </div>
         </div>
